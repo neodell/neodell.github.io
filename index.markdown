@@ -10,8 +10,7 @@ title: Home
 I'm PhD candidate in Parks, Recreation, and Tourism Management at NC State University working with [J. Aaron Hipp](https://faculty.cnr.ncsu.edu/aaronhipp/). My current research is exploring municipal Bicycle and Pedestrian Advisory Boards and their impact on active transportation policy. 
 
 Explore my work:
-- [About Me](/about-me/)
-- [Research](research.html)
-- [Publications](publications.html)
-- [Blog](blog.html)
-- [Contact](contact.html)
+- [About Me](/about/)
+- [Research](/research/)
+- [Publications](/publications/)
+- Blog (coming soon)
