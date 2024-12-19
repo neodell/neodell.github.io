@@ -6,7 +6,7 @@ permalink: /publications/
 
 
 ### Peer reviewed publications
-**Odell, N.E.**, Adlakha, D., Olcon, K., Kondo, M., Feng, X., Astell-Burt, T., & Hipp, J.A. (Accepted). Factors influencing likelihood of participation in green social prescriptions in an international sample. *Journal of Healthy Eating and Active Living.*
+**Odell, N.E.**, Adlakha, D., Olcon, K., Kondo, M., Feng, X., Astell-Burt, T., & Hipp, J.A. (2024). Factors influencing likelihood of participation in green social prescriptions in an international sample. *Journal of Healthy Eating and Active Living, 4*(3), 141-161.
 
 **Odell, N.E.** & Lee, J.A. (2024). Trail use and recreational physical activity during COVID-19 restrictions in Colorado Springs, Colorado. *Journal of Healthy Eating and Active Living, 4*(1), 32-46.
 
